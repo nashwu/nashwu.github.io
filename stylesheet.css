@@ -3,13 +3,18 @@
     text-decoration: underline;
 }
 
+p {
+    color: rgb(84, 0, 219);
+    font-size: 12px;
+}
+
 #something {
     background-color: lightgray;
     padding: 40px;
     border: 2px solid black;
 }
 
-p:hover {
+a:hover {
     color: red;
 }
 
