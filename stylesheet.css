@@ -5,11 +5,11 @@
 
 #something {
     background-color: lightgray;
-    padding: 20px;
+    padding: 40px;
     border: 2px solid black;
 }
 
-a:hover {
+p:hover {
     color: red;
 }
 
